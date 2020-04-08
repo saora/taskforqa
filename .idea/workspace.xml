@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2348813f-aa44-4407-b0a5-2b68a0005c4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ReturnValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReturnValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestReturningValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestReturningValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ReturnValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ReturnValue.class" afterDir="false" />
@@ -40,9 +39,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager" selected="Application.TestReturningValue">
@@ -83,22 +82,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586318918688">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1586319137543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586318918688" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586318918688">
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586319137543" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586319872052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586318918688" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586318918688">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586319872052" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586319872052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586318918688" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586318918688">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586319872052" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586319872052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586318918688" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586319872052" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586319872052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586319872052" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1586318713628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

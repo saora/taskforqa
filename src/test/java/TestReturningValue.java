@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class TestReturningValue {
@@ -5,8 +6,13 @@ public class TestReturningValue {
         Scanner sc = new Scanner(System.in);
         ReturnValue mon = new ReturnValue();
         System.out.println("Enter a number: ");
-        int numValue = sc.nextInt();
-        String resp = mon.getMultipleOfNumber(numValue);
-        System.out.println(resp);
+        try {
+            int numValue = sc.nextInt();
+            String resp = mon.getMultipleOfNumber(numValue);
+            System.out.println(resp);
+        }catch (InputMismatchException e){
+            System.out.println("Invalid number: "+e.getMessage());
+        }
+
     }
 }
