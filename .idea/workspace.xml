@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2348813f-aa44-4407-b0a5-2b68a0005c4d" name="Default Changelist" comment="" />
+    <list default="true" id="2348813f-aa44-4407-b0a5-2b68a0005c4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReturnValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReturnValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestReturningValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestReturningValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ReturnValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ReturnValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestReturningValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestReturningValue.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +40,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestReturningValue">
     <configuration name="TestReturningValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestReturningValue" />
       <module name="kavaktask" />
@@ -43,9 +53,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestReturningValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kavaktask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestReturningValue" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestReturningValue" />
+        <item itemvalue="JUnit.TestReturningValue" />
       </list>
     </recent_temporary>
   </component>
@@ -63,25 +83,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586305311527">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586318918688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586305311527" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586305311527">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586318918688" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586318918688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586305311527" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586305311527">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586318918688" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586318918688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586305311527" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586305311527">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586318918688" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586318918688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586305311527" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1586302822819">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586318918688" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1586318713628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586302822819" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586318713628" />
   </component>
 </project>

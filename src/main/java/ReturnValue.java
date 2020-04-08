@@ -1,7 +1,7 @@
 public class ReturnValue {
     static String resp= "";
 
-    public static String getMultipleOfNumber(byte num){
+    public  String getMultipleOfNumber(int num){
         if(num > 0 && num<=100){
             if(num%5==0 && num%3==0){
                 resp="Multiple of Both";
